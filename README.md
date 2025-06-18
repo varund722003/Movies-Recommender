@@ -4,6 +4,9 @@ A content-based movie recommender system built using **Python**, **Streamlit**, 
 
 
 ---
+Sreenshots : 
+![image](https://github.com/user-attachments/assets/f503ed1e-7264-495b-ae0c-3166730dc299)
+
 
 🚀 Features
 
